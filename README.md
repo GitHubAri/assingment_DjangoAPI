@@ -2,4 +2,4 @@
 
 ## Images:
 
-![Students](images/list_of_students)
+![Students](images/list_of_students.png)
